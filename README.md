@@ -4,6 +4,8 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR4OTF2ZG52c3RvenIzZmpodnVicml6ZmY5NjMxY3d3dDN2d2EwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vNY5SLTJVLIGWKAYJp/giphy.gif"  />
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pixel2175&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="160" alt="languages graph"  />
 </div>
